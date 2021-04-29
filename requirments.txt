@@ -1,0 +1,7 @@
+pyperclip
+time
+codecs
+pymouse
+pykeyboard
+pyHook # manually
+PyUserinput
